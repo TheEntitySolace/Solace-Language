@@ -1,1 +1,24 @@
-delete hello
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-size: 20px;
+}
